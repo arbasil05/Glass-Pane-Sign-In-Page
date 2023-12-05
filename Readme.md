@@ -4,7 +4,8 @@ In this repository, you'll find a simple form I created using HTML and CSS. As m
 
 # Preview :
 
-![Form Preview](Result.png)
+![Result](https://github.com/arbasil05/Glass-Pane-Sign-In-Page/assets/144218037/2e9fbb9f-ea2f-492b-8086-c8629a3cdfbb)
+
 
 # HTML Code :
 
@@ -128,15 +129,7 @@ body{
     cursor: pointer;
     color: #0073b194;
 }
-.video{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%; /* Make the video cover the entire container horizontally */
-    height: 100%; /* Make the video cover the entire container vertically */
-    object-fit: cover; /* Maintain video aspect ratio and cover the container */
-    z-index: -1;
-}
+
 
 ```
 
