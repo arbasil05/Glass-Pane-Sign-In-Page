@@ -4,7 +4,8 @@ In this repository, you'll find a simple form I created using HTML and CSS. As m
 
 # Preview :
 
-![Result](https://github.com/arbasil05/Glass-Pane-Sign-In-Page/assets/144218037/2e9fbb9f-ea2f-492b-8086-c8629a3cdfbb)
+![Result](https://github.com/arbasil05/Glass-Pane-Sign-In-Page/assets/144218037/9c42906f-038f-4972-9d63-79c292735767)
+
 
 
 # HTML Code :
